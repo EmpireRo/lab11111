@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/EmpireRo/lab11111.svg?branch=master)](https://travis-ci.org/EmpireRo/lab11111)
